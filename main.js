@@ -7,7 +7,6 @@
 var casper = require('casper').create({
 	// verbose: true,
     // logLevel: "debug"
-    // test
 });
 
 var XPath = require('casper').selectXPath;
